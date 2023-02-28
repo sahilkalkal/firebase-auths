@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/firebase-auths/static/css/main.92caf44a.css",
-    "main.js": "/firebase-auths/static/js/main.f34dc4ca.js",
+    "main.css": "/firebase-auths/static/css/main.d9137be5.css",
+    "main.js": "/firebase-auths/static/js/main.d3e714d3.js",
     "static/js/787.df3e7cf4.chunk.js": "/firebase-auths/static/js/787.df3e7cf4.chunk.js",
     "static/media/logo.svg": "/firebase-auths/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/firebase-auths/index.html",
-    "main.92caf44a.css.map": "/firebase-auths/static/css/main.92caf44a.css.map",
-    "main.f34dc4ca.js.map": "/firebase-auths/static/js/main.f34dc4ca.js.map",
+    "main.d9137be5.css.map": "/firebase-auths/static/css/main.d9137be5.css.map",
+    "main.d3e714d3.js.map": "/firebase-auths/static/js/main.d3e714d3.js.map",
     "787.df3e7cf4.chunk.js.map": "/firebase-auths/static/js/787.df3e7cf4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92caf44a.css",
-    "static/js/main.f34dc4ca.js"
+    "static/css/main.d9137be5.css",
+    "static/js/main.d3e714d3.js"
   ]
 }
